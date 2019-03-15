@@ -1,0 +1,13 @@
+{
+  "name": "shp-polyline-splitter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "keywords": [],
+  "author": "Martin Ždila",
+  "license": "ISC",
+  "dependencies": {
+    "shapefile": "0.6.6"
+  }
+}
